@@ -1,4 +1,4 @@
-# Supplementary Material: Hybrid-Cardiac-Model
+# Supplementary Material: Digital Heart Twin
 
 ## Overview
 
