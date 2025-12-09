@@ -2,7 +2,7 @@
 
 ## Overview
 
-We present a software package designed for a hybrid experimental-computational system that integrates real-time 2D cardiac simulations—implemented using the WebGL-based Abubu.js library—with living cardiac monolayers via a fully optical interface. This documentation provides a comprehensive, step-by-step guide intended for users with limited coding experience, detailing the functionality and execution of each component within the hybrid system.
+We present a software package designed for a digital cardiac twin that integrates real-time 2D cardiac simulations—implemented using the WebGL-based Abubu.js library—with living cardiac monolayers via a fully optical interface. This documentation provides a comprehensive, step-by-step guide intended for users with limited coding experience, detailing the functionality and execution of each component within the hybrid system.
 
 ![image](https://user-images.githubusercontent.com/54210190/147422781-7e663cee-ce4e-4a3a-bb87-ffe2b6e7ce45.png)
 
